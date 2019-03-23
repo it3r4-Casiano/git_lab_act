@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1> My Views </h1>
-	<h4> SAMPLE GIT </h4>
+	<h4> I change the color to white</h4>
 </body>
 	<script src="assets/js/jquery.js"></script>
 </html>
